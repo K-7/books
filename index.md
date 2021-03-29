@@ -12,9 +12,10 @@
     background: black;
     colour: white;
   }
-  </style>
+</style>
 
 </head>
+
 <body>
 
 <h1>Interesting Books </h1>
