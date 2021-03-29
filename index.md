@@ -1,5 +1,5 @@
 ## Read interesting books online 
 
 
-1. [yahur veda](https://github.com/K-7/books/tree/master/ANCIENT/yahur veda.pdf)
-2. ![Aryabhatta Maths](https://github.com/K-7/books/tree/master/ANCIENT/aryabhatta-math.pdf)
+1. [Ancient Chinese Healing Secret](https://k-7.github.io/books/ANCIENT/Ancient_Chinese_Healing_Secret.pdf)
+2. [Gaitasrasagraha (maths)](https://k-7.github.io/books/ANCIENT/Gaitasrasagraha-math.pdf)
